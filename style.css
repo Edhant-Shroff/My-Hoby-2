@@ -27,12 +27,6 @@ body {
     vertical-align: middle;
 }
 
-.bodysection {
-    background-color: skyblue;
-    height: 600px;
-    width: 100%;
-}
-
 #menu {
     list-style: none;
     width: 100%;
@@ -64,6 +58,33 @@ img {
     width: 160px;
 }
 
+#Myfavouritebook {
+    background-color: #fdbb2d;
+}
+
+
+#Mywork {
+    background-color: cadetblue;
+}
+
+#bodysection {
+    background-color: #22c1c3;
+}
+
+#Inspartion {
+    background-color: coral;
+}
+
+
+p,
+h3,
+h4 {
+    color: white;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
 .akshay {
     width: 500px;
     height: 500px;
@@ -71,5 +92,5 @@ img {
 
 .tiger {
     width: 500px;
-    height: 500px
+    height: 500px;
 }
